@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MrAhmedBadr
-- 👀 I’m interested in Moblie Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me => lordahmed217@gmail.com
 
